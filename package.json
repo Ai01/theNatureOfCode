@@ -1,0 +1,19 @@
+{
+  "name": "thenatureofcode",
+  "version": "1.0.0",
+  "description": "js实现《the nature of code》",
+  "main": "utils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ai01/theNatureOfCode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ai01/theNatureOfCode/issues"
+  },
+  "homepage": "https://github.com/Ai01/theNatureOfCode#readme"
+}

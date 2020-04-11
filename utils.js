@@ -2,6 +2,8 @@ export const getRandomNumber = (min, max) => {
   return Math.random() * (max - min) + min;
 };
 
+export const getRandomIntNumber = (min, max) => Math.floor(getRandomNumber(min, max));
+
 const PASSIVE_DIRECTION = '+';
 const NEGATIVE_DIRECTION = '-';
 
