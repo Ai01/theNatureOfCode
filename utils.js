@@ -32,6 +32,6 @@ export const changeDirection = (num, direction) => {
 export const timer = (fn, time) => {
   if (!time) setInterval(fn);
   for (let i = 0; i < time; i++) {
-      fn();
+      fn(i);
   }
 };
